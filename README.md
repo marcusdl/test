@@ -1,5 +1,3 @@
-# test
-Test Repository
-
+# DONE!
 
 My first GitHub repository
